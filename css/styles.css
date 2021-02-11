@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300&display=swap');
+
+.home-logo {
+    height: 200px;
+}
+
+@media (min-width: 992px) {
+    .home-display-text {
+        font-size: 4.5rem;
+        font-weight: 300;
+        line-height: 1.2;
+    }
+
+    .home-logo {
+        height: 364px;
+    }
+}
